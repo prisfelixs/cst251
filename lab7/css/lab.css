@@ -1,0 +1,17 @@
+body {
+  margin: 25px;
+  border: solid; 1px;
+  background-color: lightpink;
+}
+div#content{
+  padding:50px;
+  background-color:lightgray;
+  width: 400px;
+  height: 80vh;
+  border: solid;
+}
+img{
+  float: right;
+  width: 400px;
+  height: auto;
+}
