@@ -1,0 +1,44 @@
+body {
+margin:25px;
+background-color: lightblue;
+}
+div.main {
+  font-family: sans-serif;
+  text-decoration-style: wavy;
+}
+#navy{
+  color: gray;
+}
+div.topic {
+background-color: lightpink;
+color: white;
+border:2px solid gray;
+margin: 20px;
+padding: 20px
+}
+#dog img{
+  float: right;
+  width: 400px;
+  margin: 10px
+  padding: 0;
+  border: solid 1px lightgray;
+  overflow: hidden;
+}
+.zoom{
+padding: 50px;
+transition:transform .2s;
+width: 400px;
+height: 400px;
+margin; 0 auto;
+}
+.zoom:hover{
+  transform: scale(1.5);
+  transform:scale(1.5);
+}
+img{
+  width: 100%;
+  max-width: 100%;
+}
+#hover {
+  float: right;
+}
