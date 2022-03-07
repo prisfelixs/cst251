@@ -1,0 +1,46 @@
+body{
+margin: 25px;
+padding:50px;
+border-style: solid;
+background-color: lightpink;
+
+}
+div.title{
+  font-family: fantasy;
+  font-stretch: expanded;
+  color: gray;
+  margin: 20px;
+  padding: 20px;
+  width:10%;
+  height:auto;
+
+}
+#title {
+  font-family: fantasy;
+  font-stretch: expanded;
+  color: gray;
+
+}
+div.p{
+  border:3px dotted gray;
+  margin: 20px;
+  padding: 20px;
+
+}
+img{
+  height:300px;
+  width:300px;
+  border: 3px dotted gray;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#float{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
