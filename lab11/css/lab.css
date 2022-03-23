@@ -9,6 +9,7 @@ body{
       background-size: width: 100%, height 100%;
       background-position: center;
  background-size: cover;
+
 }
 div.heading{
   text-transform: capitalize;
@@ -22,7 +23,7 @@ border:2px solid #b5a98f;
 margin: 20px;
 padding: 20px;
 width: 550px;
-background-color: #141D26;
+background-color: #141D26
 }
 #center{
   text-align: center;
@@ -36,7 +37,7 @@ nav{
   border:2px dotted #b5a98f;
   margin: 20px;
   padding: 20px;
-  background-color: #141D26;
+  background-color: #141D26
 }
 a{
   color: #b5a98f;
@@ -48,7 +49,7 @@ padding: 20px;
 margin: 20px;
 border: dotted #b5a98f 2px;
 float: right;
-background-color: #141D26;
+background-color: #141D26
 
 }
 div.list{
