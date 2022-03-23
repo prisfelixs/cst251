@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+body{
+  margin: 25px;
+  padding:50px;
+  border-style: solid;
+  border-color: #1B365C;
+  background-color: #8ABBFF;
+}
+div.heading{
+  text-transform: capitalize;
+  letter-spacing: 5px;
+  font-family:'Limelight', cursive;
+  color: #1B365C;
+}
+p{
+  color: white;
+  border:2px solid #1B365C;
+  margin: 20px;
+  padding: 20px;
+}
+#center{
+  text-align: center;
+  color: #1B365C;
+}
+nav{
+  font-family:'Limelight', cursive;
+  text-transform: capitalize;
+  color: #1B365C;
+  letter-spacing: 5px;
+  border:2px dotted #1B365C;
+  margin: 20px;
+  padding: 20px;
+}
+a{
+  color: #1B365C;
+}
+#links{
+  font-family:'Limelight',cursive;
+  color: #1B365C;
+  letter-spacing: 5px;
+}
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
