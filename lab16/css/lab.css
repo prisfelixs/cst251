@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+body{
+  margin: 25px;
+  padding:50px;
+  border-style: solid;
+  border-color: #DAFFFD;
+  border-color: linear-gradient( #DAFFFD, #8f8685 );
+  background-color: #8f8685;
+}
+div.heading{
+  text-transform: capitalize;
+  letter-spacing: 5px;
+  font-family:'Limelight', cursive;
+  color: #DAFFFD;
+}
+p{
+  color: white;
+  border:2px solid #DAFFFD;
+  margin: 20px;
+  padding: 20px;
+}
+div#back{
+  background-image: url("../img/hz.png"), url("../img/pic.png");
+  background-position: right bottom,left top;
+  background-repeat: no-repeat,no-repeat;
+  background-size: 200px, cover;
+  padding:150px;
+}
+div#s{
+  background-position: center;
+  background-color: #DAFFFD;
+  content:25px;
+}
+#center{
+  text-align: center;
+  color: #DAFFFD;
+}
+div.h{
+  color: black;
+  font-family: 'Limelight', cursive;
+}
+nav{
+  font-family:'Limelight', cursive;
+  text-transform: capitalize;
+  color: #DAFFFD;
+  letter-spacing: 5px;
+  border:2px dotted #DAFFFD;
+  margin: 20px;
+  padding: 20px;
+}
+a{
+  color: #DAFFFD;
+}
+#links{
+  font-family:'Limelight',cursive;
+  color: #DAFFFD;
+  letter-spacing: 5px;
+}
+div#pb{
+ color: black;
+}
+div#pink{
+width: 100px;
+height: 100px;
+background: lightpink;
+transition: width 2s;
+}
+div#pink:hover{
+  width: 300px;
+}
+div#pink2{
+width: 100px;
+height: 100px;
+background: lightpink;
+transition: width 2s;
+transition-delay: 1s;
+}
+div#pink2:hover{
+  width: 300px;
+}
+div#animation{
+  width: 100px;
+  height:100px;
+  background-color: lightpink;
+  position: relative;
+  animation-name: animation;
+  animation-duration: 4s;
+  animation-delay: 4s;
+}
+
+@keyframes animation{
+  0%{background-color: lightpink;left: 0px;top:0px;}
+  25%{background-color: lightblue;left:200px;top:0px;}
+  50%{background-color: lightgreen;left:200px;top:200px;}
+  75%{background-color: lightgrey;left:0px;top:200px;}
+  100%{background-color: lightpink;left:0px;top:0px;}
+}
+div.newspaper{
+  column-count: 3;
+}
+p#l{
+color: black;
+}
