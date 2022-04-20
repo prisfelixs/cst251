@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+body{background-color: #EBE9BC;
+font-family: "DM Serif Display";
+}
+
+div.title{
+  font-family: "DM Serif Display", cursive ;
+  color: #BF643D;
+  border-color: #BF643D 5px;
+  text-align: center;
+}
+div.sections{
+  font-family: "DM Serif Display";
+  color: #BF643D;
+  border: 5px;
+  border-color: #BF643D;
+}
+nav{
+  color: #BF643D;
+  border:2px, solid;
+  margin: 20px;
+  padding:20px;
+  text-align: left;
+}
+.flex{
+  display: flex;
+}

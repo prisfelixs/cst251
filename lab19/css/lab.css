@@ -1,0 +1,45 @@
+body{
+  margin: 25px;
+  padding:50px;
+  border-style: solid;
+  border-color: #9cc2ff;
+  background-color: pink;
+
+}
+div.heading{
+  letter-spacing: 5px;
+  color:#9cc2ff ;
+}
+p{
+color: white;
+}
+div#box{
+border:2px solid #9cc2ff;
+margin: 20px;
+padding: 20px;
+width: 700px;
+background-color: #141D26;
+}
+div#box1{
+border:2px solid #9cc2ff;
+margin: 20px;
+padding: 20px;
+width: 700px;
+background-color: #141D26;
+}
+#center{
+  text-align: center;
+  color: #9cc2ff;
+}
+nav{
+  text-transform: capitalize;
+  color: #9cc2ff;
+  letter-spacing: 5px;
+  border:2px dotted #9cc2ff;
+  margin: 20px;
+  padding: 20px;
+  background-color: #141D26
+}
+a{
+  color: #9cc2ff;
+}
