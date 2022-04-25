@@ -19,13 +19,6 @@ p{
   margin: 20px;
   padding: 20px;
 }
-div#back{
-  background-image: url("../img/hz.png"), url("../img/pic.png");
-  background-position: right bottom,left top;
-  background-repeat: no-repeat,no-repeat;
-  background-size: 200px, cover;
-  padding:150px;
-}
 div#s{
   background-position: center;
   background-color: #DAFFFD;
