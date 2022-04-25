@@ -22,3 +22,23 @@ nav{
   padding:20px;
   text-align: left;
 }
+#sections{
+  padding:20px;
+  height:110vh;
+  border: solid 5px;
+  width: 65%;
+  font-family: "DM Serif Display";
+  color: #BF643D;
+border-color: #BF643D;
+}
+.box{
+  height:300px;
+  min-width:300px;
+  max-width: 1500px;
+}
+footer{
+padding: 20px;
+width: 95%;
+border: solid 3px;
+margin: 20px;
+}
